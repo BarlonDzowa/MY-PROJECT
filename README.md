@@ -67,3 +67,20 @@ NEXT_PUBLIC_CLOUDINARY_PRIVATE_CDN=<true|false>
 
 
 
+YASCON BATABASE SETUP 
+
+USERNAME : yasconor
+PASSWORD :  rMP5xPvK!HXG5@S
+
+
+
+ LINK : cpanel for organizational email handling
+https://webhosting3009.is.cc:2083/
+username:yasconor
+password: rMP5xPvK!HXG5@S
+
+
+
+
+
+
